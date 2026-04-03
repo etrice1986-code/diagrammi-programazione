@@ -1,4 +1,13 @@
 # Diagrammi di Programmazione
+# Diagrammi di Programmazione
+
+![Autore](https://img.shields.io/badge/Autore-Etrice-orange)
+![Corso](https://img.shields.io/badge/Hackademy-Programmazione-blue)
+![Diagrammi](https://img.shields.io/badge/Diagrammi-di%20Flusso-lightgrey)
+![Progetto](https://img.shields.io/badge/Progetto-Hackademy%20di%20Etrice-orange)
+
+Raccolta degli esercizi di diagrammi di flusso realizzati durante il corso Hackademy...
+
 
 Raccolta degli esercizi di diagrammi di flusso realizzati durante il corso Hackademy.  
 Ogni esercizio è rappresentato tramite diagramma e organizzato in modo chiaro all’interno della repository.
@@ -28,3 +37,11 @@ Ogni esercizio è rappresentato tramite diagramma e organizzato in modo chiaro a
 ---
 
 ## 📂 Struttura delle cartelle
+/diagrammi-programmazione
+│
+├── esercizio1.png.png
+├── esercizio2.png.png
+├── README.md
+└── /screenshots
+    └── esercizio3.png.png
+
