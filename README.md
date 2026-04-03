@@ -17,7 +17,7 @@ Ogni esercizio è rappresentato tramite diagramma e organizzato in modo chiaro a
 
 - [Esercizio 1](esercizio1.png.png)  
 - [Esercizio 2](esercizio2.png.png)  
-- [Esercizio 3](screenshots/esercizio3.png)
+- [Esercizio 3](screenshots/esercizio3.png.png)
 
 ---
 
