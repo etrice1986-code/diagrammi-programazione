@@ -23,7 +23,7 @@ Ogni esercizio è rappresentato tramite diagramma e organizzato in modo chiaro a
 
 ## 🔍 Anteprima dell’esercizio 3
 
-![Diagramma del caffè](screenshots/esercizio3.png)
+![Diagramma del caffè](screenshots/esercizio3.png.png)
 
 ---
 
