@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="150" alt="Logo del progetto">
+</p>
+
 # Diagrammi di Programmazione
 
 Questo repository contiene i diagrammi di flusso relativi agli esercizi di programmazione svolti durante il corso.  
@@ -31,12 +35,29 @@ Diagramma che illustra il processo “Come fare il caffè”, utilizzato come es
 
 ---
 
-## 🛠 Strumenti utilizzati
-- **Miro** per la creazione dei diagrammi  
-- **GitHub** per la gestione del repository e la consegna degli esercizi
+## 🔗 Link ai diagrammi
+
+- [Esercizio 1](esercizio1.png.png)
+- [Esercizio 2](esercizio2.png.png)
+- [Esercizio 3](screenshots/esercizio3.png)
 
 ---
 
-## 📌 Obiettivo
-Organizzare e documentare in modo chiaro i diagrammi di flusso degli esercizi, mantenendo una struttura ordinata e facilmente consultabile.
+## 📘 Come visualizzare i diagrammi
+I diagrammi sono immagini in formato PNG.  
+Per visualizzarli basta cliccare sul nome del file direttamente da GitHub.
+
+---
+
+## 📝 Note del corso
+Questi esercizi fanno parte delle attività introduttive del corso di programmazione.  
+L’obiettivo è imparare a rappresentare la logica dei programmi tramite diagrammi di flusso, prima di passare alla scrittura del codice.
+
+---
+
+## 👤 Autore
+**Etrice**  
+Corso di Programmazione – Hackademy  
+Anno 2026
+
 
