@@ -1,3 +1,5 @@
+![Banner Diagrammi di Programmazione - Dark Mode](https://copilot.microsoft.com/th/id/BCO.4e87b187-3ba5-4d05-bd66-a30f159f46c2.png)
+
 # Diagrammi di Programmazione
 
 
