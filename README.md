@@ -9,7 +9,8 @@ Ogni esercizio è rappresentato tramite diagramma e organizzato in modo chiaro a
 
 - **Esercizio 1** – Diagramma di flusso base  
 - **Esercizio 2** – Diagramma con condizioni  
-- **Esercizio 3** – Processo “Come fare il caffè” con ciclo e condizione
+  - [Esercizio 3](screenshots/esercizio3.png)
+
 
 ---
 
