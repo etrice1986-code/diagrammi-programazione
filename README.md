@@ -20,9 +20,6 @@
 
 <p align="center">
 
-<!-- Banner Light Mode -->
-<img src="https://copilot.microsoft.com/th/id/BCO.2d0559ad-f162-431d-9ab2-e964ed2a6599.png" width="90%">
-
 <!-- Banner Dark Mode -->
 <img src="https://copilot.microsoft.com/th/id/BCO.4e87b187-3ba5-4d05-bd66-a30f159f46c2.png" width="90%">
 
