@@ -10,12 +10,7 @@
 
 </p>
 
----
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.2d0559ad-f162-431d-9ab2-e964ed2a6599.png" 
-       width="90%" 
-       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-</p>
+
 
 
 <p align="center">
